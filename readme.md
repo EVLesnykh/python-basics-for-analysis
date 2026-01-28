@@ -7,6 +7,7 @@
 - pandas
 - numpy
 - matplotlib / seaborn
+- google colab(jupyter)
 
 ## Темы
 - загрузка и очистка данных
